@@ -1,6 +1,6 @@
-# Coffee Sales Performance Dashboard & Strategic Analysis
+# coffee-sales-performance-analysis
 
-An interactive Excel dashboard and executive report analyzing four years of retail coffee transaction data (2019–2022), built to answer commercial, operational, and forecasting questions at an executive level — not just "what happened," but "what should we do about it."
+An interactive Excel dashboard and executive report analyzing four years of retail coffee transaction data (2019–2022), built to answer commercial, operational, and forecasting questions at an executive level, not just "what happened," but "what should we do about it."
 
 **Tools:** Microsoft Excel · PivotTables · INDEX/MATCH · XLOOKUP · Interactive Slicers · Data Modeling
 
