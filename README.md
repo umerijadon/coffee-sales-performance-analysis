@@ -34,7 +34,7 @@ The dashboard is a single interactive view built around three linked visuals and
 - **Sales by Country** — geographic revenue concentration
 - **Top 5 Customers** — highest lifetime spenders
 
-> 📸 *Add a screenshot of the dashboard here:* `![Dashboard](assets/dashboard-screenshot.png)`
+<img width="659" height="320" alt="coffee_sales_performance_dashboard" src="https://github.com/user-attachments/assets/fdb79426-6b65-4d48-a7ad-5dc1113889ee" />
 
 ---
 
